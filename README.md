@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hola, soy Abel 👋
 
-<!--
-**AGIthecreator/AGItheCreator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | Mobile & Web Specialist
+Desarrollador enfocado en la creación de soluciones escalables y seguras utilizando arquitecturas modernas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Stack Tecnológico
+* **Frontend:** React Native, Vue.js, Angular, JavaScript (ES6+).
+* **Backend & Database:** Supabase (Cifrado y Auth), Airtable API.
+* **Herramientas:** Git/GitHub, Vercel, Metodologías Ágiles.
+
+## 📁 Proyectos Destacados (Privados)
+* **Callguard App:** Desarrollo en React Native para seguridad en comunicaciones móviles.
+* **Plataforma de Eventos:** SPA con Vue.js, integración de APIs y gestión de datos cifrados.
+
+---
+📫 **Contacto:** [www.linkedin.com/in/abel-gonzalez-iglesias]
