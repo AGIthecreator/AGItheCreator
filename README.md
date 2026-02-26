@@ -13,7 +13,7 @@ Plataforma visual diseñada para la exhibición de obra artística, optimizada p
 - **Enlace:** [Ver Proyecto en Vivo](https://aguarr-s-estudio-the-artful-space.vercel.app/)
 
 ![Captura del Portfolio](https://i.postimg.cc/bwxx3zd1/recorteportfolio.jpg)
-- [Acceso restringido bajo solicitud]
+- [Acceso restringido a repositorio bajo solicitud]
 ---
 
 ## 🛠️ En Desarrollo (Repositorios Privados)
