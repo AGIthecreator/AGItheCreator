@@ -1,50 +1,72 @@
-# Hola, soy Abel 👋
+# ¡Hola! Soy Abel 👋
+### Full Stack Developer | Especialista en React Native, Vue y Seguridad Cloud
 
-### Desarrollador Full Stack | Mobile & Web Specialist
-Especializado en el ecosistema JavaScript (**React Native, Vue, Angular**) con un fuerte enfoque en la seguridad de datos y la integración de servicios Cloud (**Supabase, Airtable**). Mi trayectoria en Telecomunicaciones y Backoffice técnico me permite construir soluciones eficientes que entienden las necesidades reales del negocio.
-
----
-
-## 🚀 Proyectos Destacados
-
-### 🎨 Estudio de Arte (Portfolio Web)
-Plataforma visual diseñada para la exhibición de obra artística, optimizada para rendimiento y experiencia de usuario.
-- **Stack:** Vue.js / Angular, Vercel, Responsive Design.
-- **Enlace:** [Ver Proyecto en Vivo](https://aguarr-s-estudio-the-artful-space.vercel.app/)
-
-![Captura del Portfolio](https://i.postimg.cc/bwxx3zd1/recorteportfolio.jpg)
-- [Acceso restringido a repositorio bajo solicitud]
----
-
-## 🛠️ En Desarrollo (Repositorios Privados)
-
-*Por motivos de seguridad y protección de la propiedad intelectual (cifrado de datos y arquitectura de backend), los siguientes repositorios se mantienen privados. Si eres un reclutador, puedes solicitar acceso para revisión técnica.*
-
-### 📱 Callguard (Mobile App)
-Aplicación nativa centrada en la seguridad y el filtrado de comunicaciones. Actualmente en fase de testing previa a publicación en **Play Store**.
-- **Stack:** React Native, Context API, Hooks.
-- [Próximamente en Play Store]
-
-### 🎫 Sistema de Ticketing & Gestión de Eventos
-Plataforma SPA para la automatización de entradas y control de accesos mediante QR.
-- **Stack:** Vue.js, Supabase, Airtable API.
-- [Acceso restringido bajo solicitud]
+Impulsando soluciones técnicas escalables y seguras. Mi flujo de trabajo integra de forma nativa modelos de IA de última generación para maximizar la eficiencia y la robustez del código.
 
 ---
 
-## 💻 Tecnologías & Herramientas
-
-- **Frontend:** React Native, Vue.js, Angular, JavaScript (ES6+), HTML5, CSS3.
-- **Backend & Cloud:** Supabase (PostgreSQL), Airtable API, Vercel (CI/CD).
-- **Herramientas:** Git, GitHub, Postman, Notion, Cifrado de datos.
+### 🌐 Mi Portfolio Profesional
+🚀 **[Visita mi Web Portfolio](https://tu-dominio-cuando-lo-tengas.vercel.app)** *(Actualmente en desarrollo con Next.js, Framer Motion y Supabase)*
 
 ---
 
-## 📧 Contacto
+### 🚀 Proyectos Destacados
 
-- **LinkedIn:** [Tu Perfil de LinkedIn](www.linkedin.com/in/abel-gonzalez-iglesias)
-- **Portfolio:** [Tu Notion o Web de contacto](https://detailed-bovid-c8a.notion.site/Aguarr-s-Estudio-Suite-de-Automatizaci-n-Caso-de-Estudio-30a097bac1e681159b9bedeedf813320)
+| Proyecto | Descripción | Stack Principal |
+| :--- | :--- | :--- |
+| **[Callguard](https://github.com/AGIthecreator/callguard)** | App Mobile con procesamiento 100% local para máxima privacidad. | `React Native` `Android` |
+| **[Aguarrás Estudio](https://aguarr-s-estudio-the-artful-space.vercel.app/)** | Suite de automatización y plataforma oficial para artistas. | `Vue.js` `Airtable` `Make` |
+| **PucelaTicketing** | Sistema de ticketing con cifrado avanzado y arquitectura optimizada por IA. | `Next.js` `Supabase` `Node.js` |
 
 ---
 
-> *"Enfocado en escribir código limpio, seguro y escalable."*
+### 🛠️ Ecosistema Tecnológico & AI
+
+#### 🧠 AI-Driven Development (Next-Gen)
+![GPT-5.2](https://img.shields.io/badge/GPT--5.2-19C37D?style=flat-square&logo=openai&logoColor=white)
+![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=flat-square&logo=google-gemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Cline](https://img.shields.io/badge/Cline%20%7C%20Cursor-5456FF?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+#### 💻 Desarrollo Frontend & Mobile
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+#### ⚙️ Backend, Cloud & Infraestructura
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+#### 🔄 Automatización & Seguridad
+![Make](https://img.shields.io/badge/Make-EB008B?style=flat-square&logo=make&logoColor=white)
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white)
+![Encryption](https://img.shields.io/badge/Data%20Encryption-FFD700?style=flat-square&logo=lock&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 📈 Perfil Estratégico
+
+Vengo del sector de las **Telecomunicaciones y Backoffice Técnico**, lo que me otorga una visión única sobre la eficiencia de procesos y la seguridad de datos desde la infraestructura hasta la interfaz de usuario.
+
+* **Seguridad por Diseño**: Foco en cifrado avanzado y protección de datos (Supabase Vault / Cloudflare).
+* **Automatización Experta**: Conexión de flujos de negocio complejos con Make y Airtable API.
+* **Eficiencia IA**: Uso avanzado de Prompt Engineering para acelerar ciclos de desarrollo (Gemini & GPT-5.2).
+
+---
+
+### 📫 Conectemos
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tu-correo@gmail.com)
+
+---
+© 2026 | Desarrollado con el apoyo de Gemini & GPT-5.2
