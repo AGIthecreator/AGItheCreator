@@ -56,11 +56,12 @@ Impulsando soluciones técnicas escalables y seguras. Mi flujo de trabajo integr
 
 ### 📈 Perfil Estratégico
 
-Vengo del sector de las **Telecomunicaciones y Backoffice Técnico**, lo que me otorga una visión única sobre la eficiencia de procesos y la seguridad de datos desde la infraestructura hasta la interfaz de usuario.
+Vengo del sector de las **Telecomunicaciones y Backoffice Técnico**, lo que me otorga una visión integral sobre la eficiencia de procesos y la seguridad de datos, desde la infraestructura hasta la interfaz final. Mi enfoque no es solo programar, sino construir activos digitales autónomos.
 
-* **Seguridad por Diseño**: Foco en cifrado avanzado y protección de datos (Supabase Vault / Cloudflare).
-* **Automatización Experta**: Conexión de flujos de negocio complejos con Make y Airtable API.
-* **Eficiencia IA**: Uso avanzado de Prompt Engineering para acelerar ciclos de desarrollo (Gemini & GPT-5.2).
+* **Seguridad por Diseño (Security First)**: Implementación de capas de protección avanzada mediante **Cloudflare Zero Trust** y cifrado de datos críticos con **Supabase Vault**, garantizando integridad y privacidad desde el despliegue.
+* **Ecosistemas Híbridos (Low-Code + Full-Stack)**: Experto en conectar la agilidad de **Airtable API** y **Make (Integromat)** con la potencia de **React**, permitiendo que los usuarios finales gestionen contenido dinámico (cursos, eventos, stock) sin intervención técnica.
+* **Eficiencia Operativa con IA**: Uso avanzado de **Prompt Engineering** y herramientas de IA (Gemini, GPT) para reducir los tiempos de desarrollo, optimizar el Clean Code y automatizar el testing funcional.
+* **Visión de Negocio**: Especializado en la creación de flujos *end-to-end* que eliminan tareas manuales, integrando pasarelas de pago (**Stripe**) y sistemas de ticketing automatizados.
 
 ---
 
