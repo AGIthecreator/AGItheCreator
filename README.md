@@ -6,7 +6,7 @@ Impulsando soluciones técnicas escalables y seguras. Mi flujo de trabajo integr
 ---
 
 ### 🌐 Mi Portfolio Profesional
-🚀 **[Visita mi Web Portfolio](https://www.agithecreator.com)** *(Actualmente en desarrollo con Next.js, Framer Motion y Supabase)*
+🚀 **[Visita mi Web Portfolio](https://www.agithecreator.com)**
 
 ---
 
