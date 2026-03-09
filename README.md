@@ -6,7 +6,7 @@ Impulsando soluciones técnicas escalables y seguras. Mi flujo de trabajo integr
 ---
 
 ### 🌐 Mi Portfolio Profesional
-🚀 **[Visita mi Web Portfolio](https://tu-dominio-cuando-lo-tengas.vercel.app)** *(Actualmente en desarrollo con Next.js, Framer Motion y Supabase)*
+🚀 **[Visita mi Web Portfolio](https://www.agithecreator.com)** *(Actualmente en desarrollo con Next.js, Framer Motion y Supabase)*
 
 ---
 
@@ -14,7 +14,7 @@ Impulsando soluciones técnicas escalables y seguras. Mi flujo de trabajo integr
 
 | Proyecto | Descripción | Stack Principal |
 | :--- | :--- | :--- |
-| **[Callguard](https://github.com/AGIthecreator/callguard)** | App Mobile con procesamiento 100% local para máxima privacidad. | `React Native` `Android` |
+| **[Callguard](https://play.google.com/store/apps/details?id=com.agithecreator.callguard&pli=1)** | App Mobile con procesamiento 100% local para máxima privacidad. | `React Native` `Android` |
 | **[Aguarrás Estudio](https://aguarr-s-estudio-the-artful-space.vercel.app/)** | Suite de automatización y plataforma oficial para artistas. | `Vue.js` `Airtable` `Make` |
 | **PucelaTicketing** | Sistema de ticketing con cifrado avanzado y arquitectura optimizada por IA. | `Next.js` `Supabase` `Node.js` |
 
@@ -65,8 +65,8 @@ Vengo del sector de las **Telecomunicaciones y Backoffice Técnico**, lo que me 
 ---
 
 ### 📫 Conectemos
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tu-correo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-gonzalez-iglesias/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contacto@agithecreator.com)
 
 ---
 © 2026 | Desarrollado con el apoyo de Gemini & GPT-5.2
