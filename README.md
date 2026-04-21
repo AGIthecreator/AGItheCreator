@@ -65,6 +65,15 @@ Vengo del sector de las **Telecomunicaciones y Backoffice Técnico**, lo que me 
 
 ---
 
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=AGIthecreator&show_icons=true&theme=tokyonight" height="160"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AGIthecreator&layout=compact&theme=tokyonight" height="160"/>
+
+</div>
+
+
 ### 📫 Conectemos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-gonzalez-iglesias/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contacto@agithecreator.com)
