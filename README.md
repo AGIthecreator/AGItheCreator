@@ -17,6 +17,7 @@ Impulsando soluciones técnicas escalables y seguras. Mi flujo de trabajo integr
 | **[Callguard](https://play.google.com/store/apps/details?id=com.agithecreator.callguard&pli=1)** | App Mobile con procesamiento 100% local para máxima privacidad. | `React Native` `Android` |
 | **[Aguarrás Estudio](https://aguarr-s-estudio-the-artful-space.vercel.app/)** | Suite de automatización y plataforma oficial para artistas. | `Vue.js` `Airtable` `Make` |
 | **PucelaTicketing** | Sistema de ticketing con cifrado avanzado y arquitectura optimizada por IA. | `Next.js` `Supabase` `Node.js` |
+| **[Script Smarthphones](https://github.com/AGIthecreator/transfer-upgrade-para-tienda)** | Migración de datos entre dispositivos optimizada, y optimización de arranque | `Python` |
 
 ---
 
